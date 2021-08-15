@@ -1,9 +1,12 @@
 # 401-Project
 
+# Group Members :
+- Ali Rahhal ,Saadoun M Aldhirat ,Mahmood Dinah ,Haya Balasmeh Roaa Mustafa
+
 ## Cooperation Plan
 
 - What are the key strengths of each person on the team?
- - Haya : attentions to details, deliverable on time , highly dedicated to deadline 
+ - Haya : attentions to details, highly dedicated to deadline , good data analysis and visualization skills.
   - The others will be added as we could not meet yet but discussed most of the parts.
 - How can you best utilize these strengths in the execution of your project?
  - By asking every member about their interest on each task or feature and allocating it according to that.
